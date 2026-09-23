@@ -2,9 +2,11 @@
 
 # Mach Ecosystem
 
-Every public library, tool, and project written in or for the [Mach](https://github.com/briar-systems/mach) programming language.
+Every project written in or for the [Mach](https://github.com/briar-systems/mach) programming language.
 
 Browse it with search, sorting, and project details at [machlang.org/ecosystem](https://machlang.org/ecosystem/). For a hand-picked selection, see [Awesome Mach](https://github.com/briar-systems/awesome-mach).
+
+> This list is created via user submission. If your project is missing, please take a look at [CONTRIBUTING.md](CONTRIBUTING.md)!
 
 ## Contents
 
