@@ -247,6 +247,13 @@
       "category": "games"
     },
     {
+      "id": "mach-raylib",
+      "name": "mach-raylib",
+      "url": "https://github.com/Angluca/mach-raylib",
+      "description": "Mach bindings for Raylib",
+      "category": "games"
+    },
+    {
       "id": "mach-phys",
       "name": "mach-phys",
       "url": "https://github.com/briar-systems/mach-phys",
