@@ -26,7 +26,7 @@ Browse it with search, sorting, and project details at [machlang.org/ecosystem](
 
 _The compiler, toolchain, and standard library._
 
-- [Mach](https://github.com/briar-systems/mach) - The Mach compiler and toolchain: a systems programming language with no hidden behavior.
+- [mach](https://github.com/briar-systems/mach) - The Mach compiler and toolchain: a systems programming language with no hidden behavior.
 - [mach-std](https://github.com/briar-systems/mach-std) - The Mach standard library.
 
 ## Tooling
